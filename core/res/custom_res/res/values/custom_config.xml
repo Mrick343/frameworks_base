@@ -61,4 +61,7 @@
         <item>com.shannon.imsservice</item>
         <item>org.pixelexperience.faceunlock</item>
     </string-array>
+
+    <!-- Display color inversion availability -->
+    <bool name="config_displayInversionAvailable">true</bool>
 </resources>
